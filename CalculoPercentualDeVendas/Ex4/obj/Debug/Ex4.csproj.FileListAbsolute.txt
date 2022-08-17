@@ -1,0 +1,11 @@
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex4\Ex4\bin\Debug\Ex4.exe.config
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex4\Ex4\bin\Debug\Ex4.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex4\Ex4\bin\Debug\Ex4.pdb
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex4\Ex4\obj\Debug\Ex4.csproj.AssemblyReference.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex4\Ex4\obj\Debug\Ex4.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex4\Ex4\obj\Debug\Ex4.Ex4.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex4\Ex4\obj\Debug\Ex4.Properties.Resources.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex4\Ex4\obj\Debug\Ex4.csproj.GenerateResource.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex4\Ex4\obj\Debug\Ex4.csproj.CoreCompileInputs.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex4\Ex4\obj\Debug\Ex4.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex4\Ex4\obj\Debug\Ex4.pdb
