@@ -1,0 +1,11 @@
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
