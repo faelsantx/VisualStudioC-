@@ -1,0 +1,11 @@
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex7\Ex7\bin\Debug\Ex7.exe.config
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex7\Ex7\bin\Debug\Ex7.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex7\Ex7\bin\Debug\Ex7.pdb
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex7\Ex7\obj\Debug\Ex7.csproj.AssemblyReference.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex7\Ex7\obj\Debug\Ex7.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex7\Ex7\obj\Debug\Ex7.Form1.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex7\Ex7\obj\Debug\Ex7.Properties.Resources.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex7\Ex7\obj\Debug\Ex7.csproj.GenerateResource.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex7\Ex7\obj\Debug\Ex7.csproj.CoreCompileInputs.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex7\Ex7\obj\Debug\Ex7.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex7\Ex7\obj\Debug\Ex7.pdb

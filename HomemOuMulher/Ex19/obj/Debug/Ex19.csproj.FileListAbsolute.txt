@@ -1,0 +1,10 @@
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex19\Ex19\bin\Debug\Ex19.exe.config
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex19\Ex19\bin\Debug\Ex19.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex19\Ex19\bin\Debug\Ex19.pdb
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex19\Ex19\obj\Debug\Ex19.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex19\Ex19\obj\Debug\Ex19.Form1.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex19\Ex19\obj\Debug\Ex19.Properties.Resources.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex19\Ex19\obj\Debug\Ex19.csproj.GenerateResource.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex19\Ex19\obj\Debug\Ex19.csproj.CoreCompileInputs.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex19\Ex19\obj\Debug\Ex19.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex19\Ex19\obj\Debug\Ex19.pdb

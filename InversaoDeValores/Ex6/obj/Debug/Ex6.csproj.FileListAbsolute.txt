@@ -1,0 +1,10 @@
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex6\Ex6\bin\Debug\Ex6.exe.config
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex6\Ex6\bin\Debug\Ex6.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex6\Ex6\bin\Debug\Ex6.pdb
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex6\Ex6\obj\Debug\Ex6.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex6\Ex6\obj\Debug\Ex6.Ex6.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex6\Ex6\obj\Debug\Ex6.Properties.Resources.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex6\Ex6\obj\Debug\Ex6.csproj.GenerateResource.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex6\Ex6\obj\Debug\Ex6.csproj.CoreCompileInputs.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex6\Ex6\obj\Debug\Ex6.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex6\Ex6\obj\Debug\Ex6.pdb
