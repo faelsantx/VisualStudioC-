@@ -1,0 +1,11 @@
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex18\Ex18\bin\Debug\Ex18.exe.config
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex18\Ex18\bin\Debug\Ex18.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex18\Ex18\bin\Debug\Ex18.pdb
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex18\Ex18\obj\Debug\Ex18.csproj.AssemblyReference.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex18\Ex18\obj\Debug\Ex18.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex18\Ex18\obj\Debug\Ex18.Ex18.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex18\Ex18\obj\Debug\Ex18.Properties.Resources.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex18\Ex18\obj\Debug\Ex18.csproj.GenerateResource.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex18\Ex18\obj\Debug\Ex18.csproj.CoreCompileInputs.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex18\Ex18\obj\Debug\Ex18.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex18\Ex18\obj\Debug\Ex18.pdb
