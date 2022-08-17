@@ -1,0 +1,10 @@
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex8\Ex8\bin\Debug\Ex8.exe.config
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex8\Ex8\bin\Debug\Ex8.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex8\Ex8\bin\Debug\Ex8.pdb
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex8\Ex8\obj\Debug\Ex8.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex8\Ex8\obj\Debug\Ex8.Form1.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex8\Ex8\obj\Debug\Ex8.Properties.Resources.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex8\Ex8\obj\Debug\Ex8.csproj.GenerateResource.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex8\Ex8\obj\Debug\Ex8.csproj.CoreCompileInputs.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex8\Ex8\obj\Debug\Ex8.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex8\Ex8\obj\Debug\Ex8.pdb

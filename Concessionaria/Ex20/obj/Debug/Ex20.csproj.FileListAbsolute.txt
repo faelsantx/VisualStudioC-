@@ -1,0 +1,10 @@
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex20\Ex20\bin\Debug\Ex20.exe.config
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex20\Ex20\bin\Debug\Ex20.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex20\Ex20\bin\Debug\Ex20.pdb
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex20\Ex20\obj\Debug\Ex20.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex20\Ex20\obj\Debug\Ex20.Ex20.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex20\Ex20\obj\Debug\Ex20.Properties.Resources.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex20\Ex20\obj\Debug\Ex20.csproj.GenerateResource.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex20\Ex20\obj\Debug\Ex20.csproj.CoreCompileInputs.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex20\Ex20\obj\Debug\Ex20.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex20\Ex20\obj\Debug\Ex20.pdb
