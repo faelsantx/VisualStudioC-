@@ -1,0 +1,11 @@
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex9\Ex9\obj\Debug\Ex9.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex9\Ex9\obj\Debug\Ex9.Ex9.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex9\Ex9\obj\Debug\Ex9.Properties.Resources.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex9\Ex9\obj\Debug\Ex9.csproj.GenerateResource.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex9\Ex9\obj\Debug\Ex9.csproj.CoreCompileInputs.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex9\Ex9\bin\Debug\Ex9.exe.config
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex9\Ex9\bin\Debug\Ex9.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex9\Ex9\bin\Debug\Ex9.pdb
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex9\Ex9\obj\Debug\Ex9.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex9\Ex9\obj\Debug\Ex9.pdb
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex9\Ex9\obj\Debug\Ex9.csproj.AssemblyReference.cache
