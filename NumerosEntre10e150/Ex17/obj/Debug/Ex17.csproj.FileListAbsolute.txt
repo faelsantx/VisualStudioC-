@@ -1,0 +1,10 @@
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex17\Ex17\bin\Debug\Ex17.exe.config
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex17\Ex17\bin\Debug\Ex17.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex17\Ex17\bin\Debug\Ex17.pdb
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex17\Ex17\obj\Debug\Ex17.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex17\Ex17\obj\Debug\Ex17.Ex17.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex17\Ex17\obj\Debug\Ex17.Properties.Resources.resources
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex17\Ex17\obj\Debug\Ex17.csproj.GenerateResource.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex17\Ex17\obj\Debug\Ex17.csproj.CoreCompileInputs.cache
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex17\Ex17\obj\Debug\Ex17.exe
+C:\Users\rafael.sabreu4.SENACEDU\source\repos\Ex17\Ex17\obj\Debug\Ex17.pdb
